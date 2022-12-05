@@ -25,10 +25,10 @@
                 }
             }
 
-            Console.WriteLine("Puzzle1 1");
+            Console.WriteLine("Puzzle 1");
             Console.WriteLine(inputList.Max());
 
-            Console.WriteLine("Puzzle1 2");
+            Console.WriteLine("Puzzle 2");
             Console.WriteLine(inputList.OrderByDescending(c => c).Take(3).Sum());
         }
     }

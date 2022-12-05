@@ -25,10 +25,10 @@
                 totalScoreNewRules += CalculateRoundScoreNewRules(encoded.FirstOrDefault(), encoded.LastOrDefault());
             }
 
-            Console.WriteLine("Puzzle1 1");
+            Console.WriteLine("Puzzle 1");
             Console.WriteLine(totalScore);
 
-            Console.WriteLine("Puzzle1 2");
+            Console.WriteLine("Puzzle 2");
             Console.WriteLine(totalScoreNewRules);
         }
 
