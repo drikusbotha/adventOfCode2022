@@ -7,4 +7,6 @@ Console.WriteLine("Day 2");
 new Day2Puzzle();
 Console.WriteLine("Day 3");
 new Day3Puzzle();
+Console.WriteLine("Day 4");
+new Day4Puzzle();
 Console.ReadLine();
